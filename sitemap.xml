@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  
+  <url>
+    <loc>https://lesv.github.io/</loc>
+    <lastmod>2015-06-27T13:45:30-07:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://lesv.github.io/post/hugo/</loc>
+    <lastmod>2015-06-27T13:45:30-07:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://lesv.github.io/post/first/</loc>
+    <lastmod>2015-06-27T13:19:31-07:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://lesv.github.io/page/about/</loc>
+    <lastmod>2015-06-27T13:18:35-07:00</lastmod>
+  </url>
+  
+</urlset>

@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts on Les&#39;s digital explorations</title>
+    <link>https://lesv.github.io/post/</link>
+    <description>Recent content in Posts on Les&#39;s digital explorations</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sat, 27 Jun 2015 13:45:30 -0700</lastBuildDate>
+    <atom:link href="https://lesv.github.io/post/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>hugo</title>
+      <link>https://lesv.github.io/post/hugo/</link>
+      <pubDate>Sat, 27 Jun 2015 13:45:30 -0700</pubDate>
+      
+      <guid>https://lesv.github.io/post/hugo/</guid>
+      <description>
+
+&lt;p&gt;I met &lt;a href=&#34;http://spf13.com/&#34;&gt;SPF13&lt;/a&gt; last year &amp;ndash; remembered having a good chat with him and when I was
+thinking about my blog, I considered various options:&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;http://jekyllrb.com/&#34;&gt;Jekyll&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://blogger.com&#34;&gt;blogger&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Then I remembered Hugo.&lt;/p&gt;
+
+&lt;p&gt;It&amp;rsquo;s been a very long time since I created a blog – I&amp;rsquo;ve owned AngelTech.com for a very long time,
+but that&amp;rsquo;s hosted w/o https certificates, and is a pain to move, due to locked DNS entries, so
+I&amp;rsquo;d thought I&amp;rsquo;d try hosting on &lt;a href=&#34;https://pages.github.com/&#34;&gt;Github pages&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;Anyway, Steve (SPF13), wrote &lt;a href=&#34;http://gohugo.io/&#34;&gt;Hugo&lt;/a&gt; in &lt;a href=&#34;http://golang.org/&#34;&gt;Go&lt;/a&gt; which sounds a lot
+more efficient than Jekyll&amp;rsquo;s use of Ruby. (Never a fan of scripting languages).&lt;/p&gt;
+
+&lt;p&gt;So far, I&amp;rsquo;m quite happy with it, I&amp;rsquo;m about a 30 minute user.  At this point, I&amp;rsquo;ve found that many of
+the available templates don&amp;rsquo;t work right out of the box, w/ the exception of the list below. (I tried
+them all)&lt;/p&gt;
+
+&lt;h2 id=&#34;issues:32ab7241d48fcc174c877413a917f8cf&#34;&gt;Issues&lt;/h2&gt;
+
+&lt;ol&gt;
+&lt;li&gt;When there is no theme, it still hangs in server mode.&lt;/li&gt;
+&lt;li&gt;Changes to config.toml don&amp;rsquo;t get pickedup durring &amp;ndash;watch&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;h2 id=&#34;my-preferred-themes:32ab7241d48fcc174c877413a917f8cf&#34;&gt;My Preferred Themes&lt;/h2&gt;
+
+&lt;ul&gt;
+&lt;li&gt;lanyon &amp;ndash; Black &amp;amp; White &amp;ndash; really good looking &amp;amp; behaving.&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://github.com/mpas/hugo-journal&#34;&gt;journal&lt;/a&gt; &amp;ndash; delightful = lots of red &amp;ndash; some tweaks needed.  (I chose this one!)&lt;/li&gt;
+&lt;li&gt;hugoscroll &amp;ndash; delightful big colors &amp;ndash; needs customization&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&#34;other-themes:32ab7241d48fcc174c877413a917f8cf&#34;&gt;Other Themes&lt;/h2&gt;
+
+&lt;ul&gt;
+&lt;li&gt;greyshade &amp;ndash; good  (modify the about)&lt;/li&gt;
+&lt;li&gt;heather-hugo &amp;ndash; good&lt;/li&gt;
+&lt;li&gt;hyde &amp;ndash; good&lt;/li&gt;
+&lt;li&gt;herring-cove &amp;ndash; good (near empty home page)&lt;/li&gt;
+&lt;li&gt;html5 &amp;ndash; good &amp;ndash; very sparce home page &amp;ndash; no basic width&lt;/li&gt;
+&lt;li&gt;hugo-base-theme - good - needs mods  &amp;ndash; huge picture&lt;/li&gt;
+&lt;li&gt;hugo-bootswatch - Very nice&lt;/li&gt;
+&lt;li&gt;hugo-incorporated &amp;ndash; Really like &amp;ndash; missing About, has XML&lt;/li&gt;
+&lt;li&gt;landing-page-hugo &amp;ndash; really nice looking, not for me.&lt;/li&gt;
+&lt;li&gt;liquorice &amp;ndash; nice bw theme &amp;ndash; missing about&lt;/li&gt;
+&lt;li&gt;nofancy &amp;ndash; simple nice.&lt;/li&gt;
+&lt;li&gt;pixyll &amp;ndash; Nice - big &amp;amp; bold - bw&lt;/li&gt;
+&lt;li&gt;shiori &amp;ndash; very professional &amp;ndash; missing about&lt;/li&gt;
+&lt;li&gt;simple-a - nice &amp;ndash; very sparse&lt;/li&gt;
+&lt;li&gt;slim - weird UX&lt;/li&gt;
+&lt;li&gt;tachyons &amp;ndash; nice, but full screen &amp;ndash; awkward for blogs.&lt;/li&gt;
+&lt;li&gt;tinyce &amp;ndash; minimal, missing about - Missing para breaks&lt;/li&gt;
+&lt;li&gt;twentyfourteen &amp;ndash; lots of search boxes &amp;ndash; very long lines&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Now I&amp;rsquo;m about 2 hours into it.  Still happy &amp;ndash; but disappointed at the Theme quality.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>first</title>
+      <link>https://lesv.github.io/post/first/</link>
+      <pubDate>Sat, 27 Jun 2015 13:19:31 -0700</pubDate>
+      
+      <guid>https://lesv.github.io/post/first/</guid>
+      <description>&lt;p&gt;Everything has a beginning, weather we know it or not.  And this is my blog&amp;rsquo;s beginning.  I hope to
+write about things I work with, what I learn, what I get wrong, and more.  My current interests include
+Authentication, Authorization, Big Data, Data Science, Security, Internet of Things, the Brain Project,
+the intersection of Neurology and computers, politics - which I won&amp;rsquo;t write about while I&amp;rsquo;m at Google,
+sustainability, and much more.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

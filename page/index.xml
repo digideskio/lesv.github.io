@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Pages on Les&#39;s digital explorations</title>
+    <link>https://lesv.github.io/page/</link>
+    <description>Recent content in Pages on Les&#39;s digital explorations</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sat, 27 Jun 2015 13:18:35 -0700</lastBuildDate>
+    <atom:link href="https://lesv.github.io/page/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>about</title>
+      <link>https://lesv.github.io/page/about/</link>
+      <pubDate>Sat, 27 Jun 2015 13:18:35 -0700</pubDate>
+      
+      <guid>https://lesv.github.io/page/about/</guid>
+      <description>
+
+&lt;h1 id=&#34;welcome:6083a88ee3411b0d17ce02d738f69d47&#34;&gt;Welcome!&lt;/h1&gt;
+
+&lt;p&gt;Hi, I&amp;rsquo;m Les Vogel, a Developer Programs Engineer for Google Cloud.  I&amp;rsquo;ve also worked on Google TV and Chromecast.  Before Google, I wandered around a bit &amp;ndash; from my resume:&lt;/p&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;“It turns out Apple has the best Handwriting technology in the world right now.” and “Apple was the first computer company with a low cost WiFi device.” said Steve Jobs regarding two of my projects. The AirPort base station was named #34 top tech project of all time by PC World Magazine - I was technical lead. Before AirPort, 802.11 wireless was configured by entering the name of the network you wanted to join. I came up with the idea of using the Diagnostic Scan which had a list of networks the device could see, and displaying that in a list for the user to choose from. (Thus we had easy networking)&lt;/p&gt;
+
+&lt;p&gt;Over fourty years of creating, developing and leading software engineering projects. Visible projects: AirPort, iBook, the Newton printed handwriting recognizer, Spreadsheet engine for Ashton Tate, distributed multi-processor OS for Motorola, a flood management telemetry system for the TVA, and a fail-safe system for Boeing Energy Systems. ```&lt;/p&gt;
+
+&lt;p&gt;My projects have been reviewed by Time Magazine, The New York Times, The Wall Street Journal. Once asked to what does he do? Are you an Architect, Coder, Software Engineer? The Reply &amp;ldquo;I make shit happen&amp;rdquo;, I still do.```&lt;/p&gt;
+
+&lt;p&gt;One of the differences between someone new and someone senior is the ability to know how long something takes to happen. I can usually do that, assuming the specifications don&amp;rsquo;t change.```&lt;/p&gt;
+
+&lt;p&gt;Making things fast has is an exponential benefit for the user, faster things use less battery, and it delights them.```&lt;/p&gt;
+
+&lt;p&gt;Specialties: Turning ideas into products, Small devices, Smart Websites, engines of all kinds, Debugging, Optimization, Building and managing teams, Android, Python, Java, C, Obj-C, C++, budgeting, scheduling, negotiating, contractor management, project/program management.```&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;I also do volunteer work on the switchboard at &lt;a href=&#34;http://sfsi.org&#34;&gt;San Francisco Sex Information&lt;/a&gt;.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
